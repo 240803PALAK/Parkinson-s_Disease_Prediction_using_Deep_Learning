@@ -1,1 +1,1 @@
-# Parkinson-s_Disease_Prediction_using_Deep_Learning
+# Parkinson's_Disease_Prediction_using_Deep_Learning
